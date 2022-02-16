@@ -7,7 +7,7 @@
 ██     ████████   ██ ██       ██   ███   ██████████ ███████   █████████   ██ 
                                                                              
                                                                              
-A simple bash script for knocking port on a specified IP and Port 
+A simple bash script for knocking port on a specified IP and Port with all the permutations (all combinations)
 Usage:
 Run the bash script : ./Port.knocker.sh
 IP:
